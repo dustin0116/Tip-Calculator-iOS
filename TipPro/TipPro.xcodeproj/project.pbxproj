@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					B4983A761EF9E44100F9692A = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 4WY6ZU2FZW;
+						DevelopmentTeam = W93ZA6G3US;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -261,10 +261,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4WY6ZU2FZW;
+				DEVELOPMENT_TEAM = W93ZA6G3US;
 				INFOPLIST_FILE = TipPro/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.AlexandraHuang.TipPro;
+				PRODUCT_BUNDLE_IDENTIFIER = com.AndrewHsiang.TipPro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -275,10 +275,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4WY6ZU2FZW;
+				DEVELOPMENT_TEAM = W93ZA6G3US;
 				INFOPLIST_FILE = TipPro/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.AlexandraHuang.TipPro;
+				PRODUCT_BUNDLE_IDENTIFIER = com.AndrewHsiang.TipPro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 1;

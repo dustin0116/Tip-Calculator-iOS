@@ -32,10 +32,10 @@ class ViewController: UIViewController {
             let totalAmount = roundedBillAmount + roundedTipAmount
             
             if (!billAmountField.isEditing) {
-                billAmountField.text = String(format: "%2f", roundedBillAmount)
+                billAmountField.text = String(format: "%.2f", roundedBillAmount)
             }
-            tipAmountField.text = String(format: "%2f", roundedTipAmount)
-            totalAmountField.text = String(format: "%2f", totalAmount)
+            tipAmountField.text = String(format: "%.2f", roundedTipAmount)
+            totalAmountField.text = String(format: "%.2f", totalAmount)
         } else {
             //show error
             billAmountField.text = ""
